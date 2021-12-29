@@ -1,0 +1,69 @@
+{
+      "products": [
+            {
+                  "id": 1,
+                  "name": "Vine API",
+                  "price":900,
+                  "color":"#33505a",
+                  "desc": "The Vine API allows users to retrieve data from the service, including popular videos, user data, a user's timeline, videos matching a given tag, individual posts, and notifications." , 
+                  "image": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+                  "id": 2,
+                  "name": "Tumblr API",
+                  "desc": "Use the Tumblr API to read Tumblr data or to write a Tumblr post.",
+                  "price": 900,
+                  "image": "https://picsum.photos/seed/picsum/200/300",
+                  "color": "#33505a"
+            },
+            {
+                  "id": 3,
+                  "price": 900,
+                  "color": "#33505a",
+                  "name": "Vimeo API",
+                  "image": "https://picsum.photos/seed/picsum/200/300",
+                  "desc": "The Vimeo API provides an interface to access much of the public data from Vimeo. Share videos with your friends. Access privacy settings to share videos with only select people. The API uses RESTful calls and responses are formatted in JSON"
+            },
+            {
+                  "id": 4,
+                  "price": 900,
+                  "color": "#33505a",
+                  "name": "Yelp API",
+                  "image": "https://picsum.photos/seed/picsum/200/300",
+                  "desc": "The Yelp APIs are RESTful APIs and users can retrieve business review and rating,for that business. "
+            },
+            {
+                  "id": 5,
+                  "price": 900,
+                  "color": "#33505a",
+                  "name": "LinkedIn API",
+                  "image": "https://picsum.photos/seed/picsum/200/300",
+                  "desc": "The REST API provides a simple, consistent representation of people,  using any programming language."
+            },
+            {
+                  "id": 6,
+                  "price": 900,
+                  "color": "#33505a",
+                  "name": "Last.fm API",
+                  "image": "https://picsum.photos/seed/picsum/200/300",
+                  "desc": "The Last.fm API gives users the ability to build programs using Last.fm data, whether on the web, the desktop or mobile devices. The RESTful API allows for read and write access  in either XML or JSON."
+
+            },
+            {
+                  "id": 7,
+                  "price": 900,
+                  "color": "#33505a",
+                  "image": "https://picsum.photos/seed/picsum/200/300",
+                  "name": "Instagram API",
+                  "desc": "The Instagram API provides access to user authentication, friend connections, photos and all the other elements of the iPhone app -- including uploading new media."
+            },
+            {
+                  "id": 8,
+                  "price": 900,
+                  "color": "#33505a",
+                  "name": "Google Maps API",
+                  "image": "https://picsum.photos/seed/picsum/200/300",
+                  "desc": "The Google Maps API allow for the embedding of Google Maps onto web pages of outside developers."
+            }
+      ]
+}
